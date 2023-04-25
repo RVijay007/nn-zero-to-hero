@@ -12,7 +12,7 @@ eval_interval = 100
 eval_iters = 200
 learning_rate = 1e-3
 device = "cuda" if torch.cuda.is_available() else "cpu"
-device = "mps" if torch.backends.mps.is_available() and torch.backends.mps.is_built() else device
+# device = "mps" if torch.backends.mps.is_available() and torch.backends.mps.is_built() else device
 n_embedding_dim = 64
 n_heads = 4
 n_layers = 4
@@ -26,7 +26,7 @@ dropout = 0.0
 # eval_iters = 200
 # learning_rate = 3e-4
 # device = "cuda" if torch.cuda.is_available() else "cpu"
-# device = "mps" if torch.backends.mps.is_available() and torch.backends.mps.is_built() else device
+# # device = "mps" if torch.backends.mps.is_available() and torch.backends.mps.is_built() else device
 # n_embedding_dim = 384
 # n_heads = 6
 # n_layers = 6
@@ -36,6 +36,7 @@ dropout = 0.0
 torch.manual_seed(1337)
 start_time = time.time()
 
+print(f'PyTorch version: {torch.__version__}')
 print(f"Starting at {datetime.datetime.now()}")
 print(f"Utilizing Device: {device}")
 
@@ -106,14 +107,14 @@ class Head(nn.Module):
         q = self.query(x)
 
         # Compute attention scores, i.e. affinities
-        wei = q @ k.transpose(-2,-1) * C**-0.5 # (B, T, C) @ (B, C, T) -> (B, T, T)
-        wei = wei.masked_fill(self.tril[:T, :T] == 0, float('-inf')) # (B, T, T)
-        wei = F.softmax(wei, dim=-1) # (B, T, T)
+        wei = q @ k.transpose(-2,-1) * C**-0.5                          # (B, T, C) @ (B, C, T) -> (B, T, T)
+        wei = wei.masked_fill(self.tril[:T, :T] == 0, float('-inf'))    # (B, T, T)
+        wei = F.softmax(wei, dim=-1)                                    # (B, T, T)
         wei = self.dropout(wei)
 
         # Perform the weighted aggregation of the values
-        v = self.value(x) # (B,T,hs)
-        out = wei @ v # (B, T, T) @ (B, T, hs) -> (B, T, hs)
+        v = self.value(x)                                               # (B,T,C)
+        out = wei @ v                                                   # (B, T, T) @ (B, T, C) -> (B, T, C)
         
         return out
 
