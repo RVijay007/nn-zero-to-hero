@@ -1,10 +1,88 @@
 PyTorch version: 2.0.0
-Starting at 2023-04-25 21:44:51.069841
+Starting at 2023-04-26 01:33:22.362386
 Utilizing Device: cpu
+
+ !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+Vocab Size:     65
 Model contains 10.788929 M parameters
 Running for 5000 iterations...
-step 0 (233.185s): training loss 4.2849, validation loss 4.2827
-step 500 (2029.696s): training loss 2.0047, validation loss 2.0860
-step 1000 (3843.645s): training loss 1.5989, validation loss 1.7677
-step 1500 (5679.144s): training loss 1.4363, validation loss 1.6428
-step 2000 (7525.723s): training loss 1.3421, validation loss 1.5723
+step 0 (232.204s): training loss 4.2849, validation loss 4.2827
+step 500 (2016.399s): training loss 2.0047, validation loss 2.0860
+step 1000 (3807.099s): training loss 1.5989, validation loss 1.7677
+step 1500 (5604.981s): training loss 1.4363, validation loss 1.6428
+step 2000 (7403.994s): training loss 1.3421, validation loss 1.5723
+step 2500 (9204.263s): training loss 1.2815, validation loss 1.5344
+step 3000 (11001.116s): training loss 1.2266, validation loss 1.5045
+step 3500 (12803.161s): training loss 1.1849, validation loss 1.4927
+step 4000 (14603.074s): training loss 1.1505, validation loss 1.4771
+step 4500 (16406.973s): training loss 1.1119, validation loss 1.4832
+step 4999 (18202.464s): training loss 1.0762, validation loss 1.4812
+Finished training at 2023-04-26 06:36:47.884457
+
+
+UKING RICHARD III:
+I thank me, you to the convil to him,
+Ere I perceive it now; heard his son strong'd with seas,
+With all night shot every rome that
+Sall malice the tear. Belike, having nature:
+Perjured his true knees; and then the worst crast,
+No mother the deeds aid.
+
+ROMEO:
+And I, fray both your late, and come it,
+Yourwisely draws, and falls to give us to
+From justice past against his deed: which he gates,
+Then Roman have blush'd their body hits haolds there,
+Of so most singulars of me own betimelance:
+For villain stretches still lings,--
+This rags calping Richard with quiet place
+That brought it is as new in a safety,
+The clouds; that white the world adorns
+Of the sirity din crave woe, love Fourthy,
+Nor that lordging-y noiled beards
+And coward giveng to market my death,
+Within her villain country when obsequence,
+Till my trust not hat live an end twaining of our graves
+Lodderings to bloody battle; but 'twas vengeance.
+
+VOLUMNIA:
+Master!
+You shall be the besty of that?
+
+BENVOLIO:
+It doubt forget:
+Gentle gods, how now you nor heaven, that
+loved on'er Shames for't; and, goddess, by then sins
+and from the apperening bats again;
+Into the like and prayer crossing,
+A challen; this tiggivery neighbours knew
+And the rosliss.
+
+BRAUTONAS:
+The foe the city of Citus Montague,
+Untourish'd from him.
+
+FRIAR LAURENCE:
+Hear the deadless from his love!
+There is share he is foul a figuse to reasonalty,
+Yourself, and no happing Peok; histlike to-night,
+He gives his cried in dreamer, my law;
+Dog his lightnity to should be writ the blood,
+To seem the princely for resign tedgment,
+To lit him horted appoint pointed course,
+And with hissrawly stay and learn, as blood
+To the treach of noble foul loyalties.
+
+DUKE OF YORK:
+For need, my Lord Northumberlass!
+That Doriclines it so hast banish'd:
+The cried within the rise, and dized us not,
+To favour for that the love I have it fright,
+And I'ld take my lords' hate.
+
+HENRY BOLINGBROKE:
+Upon the crown, worthy your flesheard beginner.
+
+HASTINGS:
+
+Done generating at 2023-04-26 06:38:07.761920
