@@ -1,0 +1,10 @@
+PyTorch version: 2.0.0
+Starting at 2023-04-25 21:44:51.069841
+Utilizing Device: cpu
+Model contains 10.788929 M parameters
+Running for 5000 iterations...
+step 0 (233.185s): training loss 4.2849, validation loss 4.2827
+step 500 (2029.696s): training loss 2.0047, validation loss 2.0860
+step 1000 (3843.645s): training loss 1.5989, validation loss 1.7677
+step 1500 (5679.144s): training loss 1.4363, validation loss 1.6428
+step 2000 (7525.723s): training loss 1.3421, validation loss 1.5723

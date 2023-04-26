@@ -19,15 +19,15 @@ import datetime
 # dropout = 0.0
 
 # Hyperparameters for full run - ~10M parameters
-batch_size = 64      # How many independent sequences will we process in parallel?
-block_size = 256      # What is the maximum context length for predictions?
+batch_size = 64             # How many independent sequences will we process in parallel?
+block_size = 256            # What is the maximum context length for predictions?
 max_iters = 5000
 eval_interval = 500
 eval_iters = 200
 learning_rate = 3e-4
 device = "cuda" if torch.cuda.is_available() else "cpu"
-# device = "mps" if torch.backends.mps.is_available() and torch.backends.mps.is_built() else device
-n_embedding_dim = 384
+device = "mps" if torch.backends.mps.is_available() and torch.backends.mps.is_built() else device
+n_embedding_dim = 384       # batch_size * num_heads
 n_heads = 6
 n_layers = 6
 dropout = 0.2
@@ -46,6 +46,8 @@ with open('input.txt', 'r', encoding='utf-8') as f:
 
 chars = sorted(list(set(text)))
 vocab_size = len(chars)
+print(''.join(chars))
+print(f"Vocab Size:\t{vocab_size}")
 
 stoi = { ch:i for i,ch in enumerate(chars) }
 itos = { i:ch for i,ch in enumerate(chars) }

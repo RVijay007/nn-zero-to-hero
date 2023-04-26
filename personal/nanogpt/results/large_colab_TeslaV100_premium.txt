@@ -1,0 +1,89 @@
+PyTorch version: 2.0.0+cu118
+Starting at 2023-04-26 07:34:01.345002
+Utilizing Device: cuda
+
+ !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+Vocab Size:	65
+Model contains 10.788929 M parameters
+Running for 5000 iterations...
+step 0 (28.072s): training loss 4.2849, validation loss 4.2823
+step 500 (122.720s): training loss 2.0088, validation loss 2.0945
+step 1000 (217.066s): training loss 1.5952, validation loss 1.7764
+step 1500 (311.396s): training loss 1.4367, validation loss 1.6382
+step 2000 (405.641s): training loss 1.3409, validation loss 1.5741
+step 2500 (500.022s): training loss 1.2799, validation loss 1.5354
+step 3000 (594.129s): training loss 1.2267, validation loss 1.5100
+step 3500 (688.395s): training loss 1.1827, validation loss 1.4932
+step 4000 (782.525s): training loss 1.1471, validation loss 1.4840
+step 4500 (876.727s): training loss 1.1097, validation loss 1.4789
+step 4999 (970.605s): training loss 1.0762, validation loss 1.4875
+Finished training at 2023-04-26 07:50:12.099260
+
+Good sovereign. Not ye; say you fond then words,
+Or I will in a skillgings of the honour say.
+
+RICHARD:
+Richard, without bring blood away.
+
+MONTAGUE:
+Commandst La; let me speak will be true.
+
+GREGORY:
+Why told's good morrow, like an trutor;
+I had stand our atrone, as they through the means,
+Unless to the rock.
+
+PRINCE EDWARD:
+Thus we bitters to each without to love.
+
+PARINA:
+Speak; for fetch his sparks, then, are thou not past.
+This suitors of for was miseral, hare with been:
+Whom then I. I mean, Edward how for Clarence,
+Is withy slaped his condity
+To hate thee, and trast heir horses and daughter,
+This clouds coold against his head;
+Till the blood of watery taker sleeping-rite
+Frameless, saw'st, unborn to his country,
+Which would remains, which desolves good fathers,
+The lads on an all bloody drink was a quarrel;
+Undred all your shames soft a weary sound,
+Since, we have power with some and many honour,
+Though, wrong and feat your acture, you she is not love
+Shed befall comes to me, what like a pedfilreman,
+That then, my dear my present of my val,
+Who dearly to maid with God,
+Our very wallsh no more of succeedent,
+Unfiding the heaven sparks to for life,
+Of that sciong love this nature,
+Wencheaven, crave thy lengers' name; virgings,
+Though wrough they look on't, close among'd
+Thy earth, prisoners, sweet put the fair--away,
+Yet destruct my sond and grows coward
+Cover three shut to holy about it?--Hencense
+On joys for matter doth two accuse for ourses,
+To say 'Which your sweet', and twenty gardens.'
+'Repost,' make a gentle former of goodly
+An I said your mages faint.
+
+LARTIUS:
+You have you send him along:
+It is on be the chust met at will.
+
+First Murdererer:
+There in Pathme will?
+
+First Murderer:
+Let them kiss 'em.
+
+MARCIUS:
+Clarence, be can keep met, be Your husband;
+To valians, so and revenge law our pardonation,
+Verona can curtal, I'll speak the word,
+Whiles they grings else your tottage.
+
+ARCHIDAMUS:
+On your cares lay alack one wish'd;
+Some well they steel'd, and we
+
+Done generating at 2023-04-26 07:50:54.733555

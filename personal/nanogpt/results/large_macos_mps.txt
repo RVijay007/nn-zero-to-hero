@@ -1,0 +1,96 @@
+PyTorch version: 2.0.0
+Starting at 2023-04-26 00:10:47.999107
+Utilizing Device: mps
+
+ !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+Vocab Size:     65
+Model contains 10.788929 M parameters
+Running for 5000 iterations...
+step 0 (38.807s): training loss 4.2849, validation loss 4.2827
+step 500 (311.029s): training loss 1.9929, validation loss 2.0765
+step 1000 (561.201s): training loss 1.5914, validation loss 1.7677
+step 1500 (816.087s): training loss 1.4312, validation loss 1.6358
+step 2000 (1068.822s): training loss 1.3424, validation loss 1.5736
+step 2500 (1323.413s): training loss 1.2743, validation loss 1.5294
+step 3000 (1577.346s): training loss 1.2282, validation loss 1.5060
+step 3500 (1828.816s): training loss 1.1842, validation loss 1.4796
+step 4000 (2079.605s): training loss 1.1453, validation loss 1.4779
+step 4500 (2330.450s): training loss 1.1135, validation loss 1.4876
+step 4999 (2581.049s): training loss 1.0776, validation loss 1.4812
+Finished training at 2023-04-26 00:53:49.499776
+
+ESTER:
+Here never this my wrath is this spoil
+To hope a bartain rightful sword speak;
+Which thou further-preserving for me.
+
+QUEEN ELIZABETH:
+O whom I they, sir, though we are impossible
+Throathn their most perfect swords, we say, make
+And have stampsting the wronging ento our friend.
+See, go to-me tow farewell; and thou throw thy consent
+To this sirron ie from out.
+
+DUKE VINCENTIO:
+As bellow'd all riddless coals,
+Because they their complion died as no foul up
+As sun; and she ware wreck-grawing, and soundled, come hither
+I' shall broke to return.
+If them shall glo at one, and sweet my shame!
+Look'd once! list, paositvalve me how!
+Of thou wilt thy absent o'erds wink some seeming!
+O, mortal than when thou was were to me?
+What royal Bux with his dandes is not,
+Not for our face of but prioce day good.
+
+NUrse:
+No, bid Him And Lord Hastings, for Kings, and thy seize
+I have set possess his knee counce' clouds alay.
+
+ANTIGONUS:
+Bid He's o'er such a fault thy king?
+As joy thou art, By my mortal together thou
+Franchtful in another power.
+
+LEONTES:
+As whencefore?
+
+TESALLBOO:
+Fell
+Fear not.
+
+GLOUCESTER:
+I would wead you all senators.
+
+FLORIZEL:
+But forbid me, as you shall at have made
+My steep.
+
+DUKE VINTIO:
+I know you, and tying, their death times when I warm,
+And I am now do so-day; you have foldfuned.
+
+MARIANA:
+Sirs, my lord. To lose I am upon thee:
+Do thou aspeak not the vault of this morning's sovereign,
+By though that might the last me four and condition
+I have lected twenty to thy crenthrous to Rome,
+And mourniff the earnest thousand, which to earn,
+That we pity'st to see him stars
+To ender her bathholders' in this housearth in.
+Thou farther: where reach thou tilt be alhor,
+That art doing, wind thousand any lords?
+Thou rap Angelo! for kings, bloody, is Henry.
+You myselves, come, ome: you for--
+
+FRIAR SIII:
+Why, should I fear the world: keep thee hast seem'd
+By her and by cheeks.
+
+HENRY BOLINGBROKE:
+You thou are infuse thee I am thus flatterous
+In Betredonweak him.
+
+PRINC
+
+Done generating at 2023-04-26 00:58:05.454019

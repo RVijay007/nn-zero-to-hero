@@ -1,0 +1,106 @@
+PyTorch version: 2.0.0+cu118
+Starting at 2023-04-26 07:26:08.593150
+Utilizing Device: cuda
+
+ !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+Vocab Size:	65
+Model contains 10.788929 M parameters
+Running for 5000 iterations...
+step 0 (71.388s): training loss 4.2849, validation loss 4.2823
+step 500 (367.726s): training loss 2.0099, validation loss 2.0961
+step 1000 (663.746s): training loss 1.6017, validation loss 1.7816
+step 1500 (959.965s): training loss 1.4414, validation loss 1.6390
+step 2000 (1255.900s): training loss 1.3430, validation loss 1.5733
+step 2500 (1551.092s): training loss 1.2798, validation loss 1.5327
+step 3000 (1846.257s): training loss 1.2281, validation loss 1.5107
+step 3500 (2141.471s): training loss 1.1833, validation loss 1.4902
+step 4000 (2436.494s): training loss 1.1475, validation loss 1.4842
+step 4500 (2731.484s): training loss 1.1112, validation loss 1.4822
+step 4999 (3026.120s): training loss 1.0798, validation loss 1.4949
+Finished training at 2023-04-26 08:16:35.167188
+
+But with princh: I will steal win him.
+Let's well me as she is of Romeo far's sent.
+So hath born; my own manife, let no more:
+I shall make speak full my slavish wit us.
+
+Second Servingman:
+All: all hearing is a terror.
+
+Third Servingman:
+The gods canot stay.
+See you, is heart stirr'd with Pompey. Now to it.
+
+First Senator:
+Your fiar's trot?
+
+First Servingman:
+But I heardly told my heart.
+There weep Clarence, I have deliver'd by stream'd in
+That, I had certainly yively powerful brother.
+
+First Citizen:
+God hop welf that do you go
+I; live, deithumble your company.
+We can never trusty beggars ; I pray,
+Before you, dasuay now, horself no never honost.
+
+CAPULIO:
+Heart is that shall bear?
+
+ESCALUS:
+An top, this is hands; and goodly good would
+grantly give you tender me, sir.
+
+ISABELLA:
+For what would then, very were Pardon consalsmers war.
+
+LUCIO:
+Have a done recoverent.
+
+CLAUDIO:
+Hear you so privyme in stay.
+
+DUKE OF AUMPERLE:
+That I were here in a joyPleasure.
+
+LUCIO:
+Your grate into my Lady Bona is!
+Besides, that let I strait be possible!
+
+DUKE VINCENTIO:
+O But lovership with him,
+And show long Harry sily rerest Bastard the
+By that Northamberlingbroke. Provopt the clowers rage? When?
+
+DUKE VINCHARDIII:
+Sir, I leave you coward withdraw;
+But will many the reason rides Barranton,
+Nor crystance on his clouds.
+
+DUKE VINCENTIO:
+Well, sir, my lords: ou would you might be,
+Do you we pray me her; daddling all by,
+Showing how my crave heirs.
+
+WARWICK:
+Soldier, Prince Esoper;
+Call her Bolingbroke and g, for the closes;
+And in meltiestide atflects, for love
+An hotly stand this kingdom, hath he did it fasy:
+This swore am high loathed with tols,
+That Warwick, if it serveled so timeedy,
+Will the disgrace to the walls:
+Lo, by the realm,
+Have benefit a dishabitable,
+Within you not well, yet here we were power
+A garb and brothers.
+
+Provost:
+Boar your pardon Bonnea, at Saint frown, I came;
+And I am, sorry pring you to me,
+That liest for usurprates
+Even questies: from Very prayers
+Thatuga
+
+Done generating at 2023-04-26 08:17:13.995248
