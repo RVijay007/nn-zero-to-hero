@@ -1,0 +1,133 @@
+PyTorch version: 2.0.0+cu118
+Starting at 2023-04-25 17:04:49.004675
+Utilizing Device: cuda
+Model contains 0.209729 M parameters
+Running for 5000 iterations...
+step 0 (7.088s): training loss 4.4112, validation loss 4.4015
+step 100 (13.835s): training loss 2.6576, validation loss 2.6632
+step 200 (20.554s): training loss 2.5119, validation loss 2.5023
+step 300 (27.510s): training loss 2.4154, validation loss 2.4307
+step 400 (34.273s): training loss 2.3515, validation loss 2.3671
+step 500 (40.900s): training loss 2.3015, validation loss 2.3226
+step 600 (47.500s): training loss 2.2555, validation loss 2.2620
+step 700 (54.340s): training loss 2.2136, validation loss 2.2235
+step 800 (61.034s): training loss 2.1607, validation loss 2.1917
+step 900 (67.597s): training loss 2.1422, validation loss 2.1517
+step 1000 (74.335s): training loss 2.1020, validation loss 2.1312
+step 1100 (80.959s): training loss 2.0640, validation loss 2.1140
+step 1200 (87.698s): training loss 2.0478, validation loss 2.0952
+step 1300 (94.366s): training loss 2.0191, validation loss 2.0648
+step 1400 (101.394s): training loss 2.0012, validation loss 2.0474
+step 1500 (108.505s): training loss 1.9832, validation loss 2.0363
+step 1600 (116.073s): training loss 1.9688, validation loss 2.0414
+step 1700 (125.724s): training loss 1.9523, validation loss 2.0313
+step 1800 (132.369s): training loss 1.9282, validation loss 2.0230
+step 1900 (138.892s): training loss 1.9106, validation loss 1.9824
+step 2000 (145.629s): training loss 1.9090, validation loss 1.9966
+step 2100 (152.200s): training loss 1.8779, validation loss 1.9711
+step 2200 (158.801s): training loss 1.8757, validation loss 1.9610
+step 2300 (165.342s): training loss 1.8538, validation loss 1.9577
+step 2400 (172.114s): training loss 1.8419, validation loss 1.9429
+step 2500 (178.885s): training loss 1.8323, validation loss 1.9377
+step 2600 (185.460s): training loss 1.8196, validation loss 1.9325
+step 2700 (192.149s): training loss 1.8064, validation loss 1.9386
+step 2800 (198.716s): training loss 1.7919, validation loss 1.9269
+step 2900 (205.291s): training loss 1.7963, validation loss 1.9315
+step 3000 (211.894s): training loss 1.7809, validation loss 1.9124
+step 3100 (218.477s): training loss 1.7752, validation loss 1.9010
+step 3200 (225.036s): training loss 1.7551, validation loss 1.8890
+step 3300 (231.577s): training loss 1.7582, validation loss 1.8991
+step 3400 (238.528s): training loss 1.7605, validation loss 1.8915
+step 3500 (245.062s): training loss 1.7504, validation loss 1.8927
+step 3600 (251.654s): training loss 1.7432, validation loss 1.8897
+step 3700 (258.281s): training loss 1.7374, validation loss 1.8807
+step 3800 (264.909s): training loss 1.7322, validation loss 1.8851
+step 3900 (271.576s): training loss 1.7224, validation loss 1.8700
+step 4000 (278.154s): training loss 1.7081, validation loss 1.8584
+step 4100 (284.689s): training loss 1.7161, validation loss 1.8515
+step 4200 (291.224s): training loss 1.7166, validation loss 1.8583
+step 4300 (297.885s): training loss 1.7121, validation loss 1.8467
+step 4400 (304.501s): training loss 1.6994, validation loss 1.8572
+step 4500 (311.159s): training loss 1.6984, validation loss 1.8463
+step 4600 (317.653s): training loss 1.6977, validation loss 1.8372
+step 4700 (324.186s): training loss 1.6909, validation loss 1.8289
+step 4800 (331.012s): training loss 1.6796, validation loss 1.8310
+step 4900 (337.725s): training loss 1.6798, validation loss 1.8285
+step 4999 (344.412s): training loss 1.6782, validation loss 1.8283
+Finished training at 2023-04-25 17:10:33.441530
+
+When thy bride will that yest manised bubecule.
+So O-and meaganans! Your have wear, they ceetlessay,
+Are rumy fachs' comzonour
+Young-moofuid heart my would bodes is ensent,
+A ladiHnamireve to me; Will. Good you musel.
+
+Shame here she conviry: but baidst, why.
+
+KING HERY VI:
+Yet'els not
+the odly that
+mont-nothour Ceiingle, and forrive we hipence poor of my reshep and thrupt for armion the:
+Engre inleportation Prive my of.
+
+HENNY:
+Har, you as ardst Was have striding must are no Rumphamence after young and kneeds.
+
+YORK:
+Why mysay! But; mysel-ennough.
+
+MARINAY:
+Jrew shall in son't we your which.
+
+MENENENIUS:
+No sol.
+
+
+CLAURIZET:
+Tears thou everewby thove maid parst
+Would in meent beings in doughten eRAKE Lony, commpon;
+Mercuck my side he nees out and thither.
+
+Prown:
+Abut we me! I withounly monderst welce.
+
+Privost:
+'To I subject. My hathoph'n's medn thy your tare?
+
+CLAUGER:
+Benomen e subge wiphoved, wilthout and, bruilsed we welkes of sold;
+For for my watch time wout in fare;
+you well. Yet runeed.
+
+KING RICHARGAREH:
+Your was numponce, do priveitaton and that's bring!
+
+AUTOLYCUS:
+minds so me worsingin in thy hight:
+How wouldd chial friend! abshopenIn
+Beforecieve call as ince anybecket,
+And menaties brefoleing bremenging.
+
+DUKEest Ange,:
+But detio your Have thamself than
+Have my oftress of myself: 't, through have your masting it is caper's lord, Whom heart your hunce be:
+Henfored, news, Repost, must that sweet;
+And him yenk to may're beeny, delel!
+He issone your sonerner,
+And eleequem sin just but blether,
+Was, as If had thou aver scace:
+On! prove of when seek
+Of mistrare gentleced being hamest thou were thy is
+'Tward seems rishn. That, and I asgive, the courseh,
+Manyor some not mather. But He
+hard Well, this flout-must that
+he craces cill, of must 'reoble talked
+And the wince aforalk'd of attence your enower life?
+
+CLADY AUNEY:
+Yet when would than with say, thy proud,
+They armnsent, Joar atthence slan,
+Jing Riparling: Ingin shown'd forful me succh offer hence. O
+Marr
+
+Done generating at 2023-04-25 17:10:54.875663

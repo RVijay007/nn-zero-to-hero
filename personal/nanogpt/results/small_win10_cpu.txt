@@ -1,0 +1,133 @@
+PyTorch version: 2.0.0+cu118
+Starting at 2023-04-25 17:13:55.221159
+Utilizing Device: cpu
+Model contains 0.209729 M parameters
+Running for 5000 iterations...
+step 0 (7.548s): training loss 4.4112, validation loss 4.4015
+step 100 (20.555s): training loss 2.6576, validation loss 2.6632
+step 200 (33.700s): training loss 2.5121, validation loss 2.5023
+step 300 (46.643s): training loss 2.4156, validation loss 2.4310
+step 400 (59.823s): training loss 2.3515, validation loss 2.3670
+step 500 (72.686s): training loss 2.3015, validation loss 2.3229
+step 600 (85.751s): training loss 2.2555, validation loss 2.2617
+step 700 (98.841s): training loss 2.2145, validation loss 2.2244
+step 800 (111.858s): training loss 2.1603, validation loss 2.1913
+step 900 (124.933s): training loss 2.1422, validation loss 2.1524
+step 1000 (138.305s): training loss 2.1010, validation loss 2.1303
+step 1100 (151.441s): training loss 2.0644, validation loss 2.1153
+step 1200 (164.399s): training loss 2.0473, validation loss 2.0949
+step 1300 (177.243s): training loss 2.0189, validation loss 2.0637
+step 1400 (190.956s): training loss 2.0016, validation loss 2.0461
+step 1500 (203.887s): training loss 1.9856, validation loss 2.0378
+step 1600 (216.744s): training loss 1.9690, validation loss 2.0425
+step 1700 (229.729s): training loss 1.9512, validation loss 2.0295
+step 1800 (242.645s): training loss 1.9283, validation loss 2.0244
+step 1900 (255.755s): training loss 1.9118, validation loss 1.9853
+step 2000 (268.544s): training loss 1.9083, validation loss 1.9975
+step 2100 (281.677s): training loss 1.8773, validation loss 1.9714
+step 2200 (294.887s): training loss 1.8778, validation loss 1.9660
+step 2300 (308.020s): training loss 1.8541, validation loss 1.9571
+step 2400 (320.984s): training loss 1.8410, validation loss 1.9443
+step 2500 (333.852s): training loss 1.8354, validation loss 1.9440
+step 2600 (346.678s): training loss 1.8200, validation loss 1.9356
+step 2700 (359.492s): training loss 1.8060, validation loss 1.9405
+step 2800 (372.655s): training loss 1.7943, validation loss 1.9288
+step 2900 (385.567s): training loss 1.7939, validation loss 1.9311
+step 3000 (398.679s): training loss 1.7833, validation loss 1.9100
+step 3100 (411.714s): training loss 1.7710, validation loss 1.8984
+step 3200 (424.694s): training loss 1.7580, validation loss 1.8895
+step 3300 (437.584s): training loss 1.7562, validation loss 1.8981
+step 3400 (450.482s): training loss 1.7616, validation loss 1.8920
+step 3500 (463.535s): training loss 1.7532, validation loss 1.8918
+step 3600 (476.405s): training loss 1.7433, validation loss 1.8860
+step 3700 (489.301s): training loss 1.7436, validation loss 1.8872
+step 3800 (502.374s): training loss 1.7356, validation loss 1.8933
+step 3900 (515.292s): training loss 1.7231, validation loss 1.8673
+step 4000 (528.344s): training loss 1.7097, validation loss 1.8600
+step 4100 (541.605s): training loss 1.7188, validation loss 1.8536
+step 4200 (556.104s): training loss 1.7176, validation loss 1.8583
+step 4300 (573.124s): training loss 1.7142, validation loss 1.8487
+step 4400 (587.914s): training loss 1.6968, validation loss 1.8527
+step 4500 (601.739s): training loss 1.6963, validation loss 1.8485
+step 4600 (618.434s): training loss 1.6976, validation loss 1.8427
+step 4700 (631.741s): training loss 1.6922, validation loss 1.8366
+step 4800 (645.026s): training loss 1.6774, validation loss 1.8308
+step 4900 (658.258s): training loss 1.6802, validation loss 1.8303
+step 4999 (671.219s): training loss 1.6781, validation loss 1.8265
+Finished training at 2023-04-25 17:25:06.495634
+
+ROMEO:
+But you freight
+My shall I more up: you haNry, uDo my lord,
+Ungess we camilg and with their spraw thy!
+
+MERCUS:
+Why not me! you glo. I thyself!
+
+DUKE VINCENTIO:
+Whan she we humanden, he, by by, makingty towar: butied, yitselfs gentle wifitle friends:
+By shast a hird,----
+But thou stimer: he buttalt the before.
+
+BUCKINGHAM:
+A conurst
+Wet bide pitsage but a tiletdest.gham's subbred in thatelp me;
+An your and beway nayed is two broke enexal the comfed is that,
+And not will and no haviced and enirancy.
+
+POLICHASOUS:
+Owas dest as hatsom should hast. Wryow, aster stong? the hampe, led,
+Dear some me and pitain'd! what your hearth.
+
+LUCIO:
+By, let thy weopen to the gor that your indernature, larst them neep of nee
+mun! deshipt jun and!
+He a recrowerp rich Aftlerculion
+What coling more commood by these
+pringetrages. To the -fierst that
+The conching-stand, no and net, Rommanding thee.
+
+BUTUS:
+We is which, you, profort?
+
+
+GeLOUCESSTER:
+Narenum strave,
+Thy cage word sees exeny with. I beink your well.
+Bently much suile no must; not be I withed best,
+But by, thou I offightage, as squelch!
+
+First Marewick, cannot I wreak and well:
+If vow have he band I
+Warwas your sone somel and was.
+
+PUTOUCET:
+Like mest humander of them canstreth Mury much, thou and quick speak
+Your bost men I rather come for to a king think, if by your gone, he'st, now burder,
+'Greage him mine so well
+indet: had death died mosts. I bothenty,
+How and by you here, With will reseless
+of vick! whelp, was were't a vironst in tooken,
+Your marror on quess and noble unsughter.
+Then mind forgentless me; norre'er and peepnent.
+Dokes I hufter near?
+
+LAUCIO:
+Berial, that by rayouns youthret in treching hastimpare
+Thump,--
+First well.
+For you'rth we hastil he bode thmy broughtlents
+Here figes nequeet pare feelade.
+Thus?
+
+ANowin her:
+O my posting me, morre for or quart, that perst and this corn's furpled
+fon pricess bless make Duidish my vaintinyal havio taursury?
+
+MARCALUS:
+O 'hiled?
+
+CORIOLANUS:
+So liking thou muptt
+
+Done generating at 2023-04-25 17:25:22.802760
