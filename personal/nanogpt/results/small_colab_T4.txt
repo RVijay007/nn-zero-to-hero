@@ -1,0 +1,135 @@
+PyTorch version: 2.0.0+cu118
+Starting at 2023-04-25 23:43:28.433726
+Utilizing Device: cuda
+Model contains 0.209729 M parameters
+Running for 5000 iterations...
+step 0 (4.335s): training loss 4.4116, validation loss 4.4022
+step 100 (9.253s): training loss 2.6568, validation loss 2.6670
+step 200 (13.816s): training loss 2.5090, validation loss 2.5059
+step 300 (19.268s): training loss 2.4196, validation loss 2.4338
+step 400 (23.852s): training loss 2.3503, validation loss 2.3565
+step 500 (28.476s): training loss 2.2966, validation loss 2.3129
+step 600 (33.783s): training loss 2.2410, validation loss 2.2500
+step 700 (38.638s): training loss 2.2051, validation loss 2.2191
+step 800 (43.796s): training loss 2.1640, validation loss 2.1874
+step 900 (48.657s): training loss 2.1251, validation loss 2.1515
+step 1000 (53.218s): training loss 2.1023, validation loss 2.1291
+step 1100 (58.413s): training loss 2.0699, validation loss 2.1192
+step 1200 (62.873s): training loss 2.0375, validation loss 2.0797
+step 1300 (68.398s): training loss 2.0259, validation loss 2.0647
+step 1400 (72.948s): training loss 1.9924, validation loss 2.0362
+step 1500 (77.545s): training loss 1.9700, validation loss 2.0304
+step 1600 (82.656s): training loss 1.9631, validation loss 2.0476
+step 1700 (87.146s): training loss 1.9412, validation loss 2.0131
+step 1800 (91.946s): training loss 1.9097, validation loss 1.9960
+step 1900 (96.690s): training loss 1.9101, validation loss 1.9882
+step 2000 (101.436s): training loss 1.8867, validation loss 1.9976
+step 2100 (106.607s): training loss 1.8720, validation loss 1.9754
+step 2200 (111.088s): training loss 1.8588, validation loss 1.9606
+step 2300 (116.660s): training loss 1.8542, validation loss 1.9525
+step 2400 (121.364s): training loss 1.8424, validation loss 1.9464
+step 2500 (125.813s): training loss 1.8173, validation loss 1.9455
+step 2600 (131.179s): training loss 1.8256, validation loss 1.9388
+step 2700 (135.696s): training loss 1.8116, validation loss 1.9350
+step 2800 (140.325s): training loss 1.8056, validation loss 1.9214
+step 2900 (145.387s): training loss 1.8040, validation loss 1.9300
+step 3000 (149.871s): training loss 1.7974, validation loss 1.9205
+step 3100 (155.014s): training loss 1.7694, validation loss 1.9157
+step 3200 (159.453s): training loss 1.7539, validation loss 1.9115
+step 3300 (164.120s): training loss 1.7571, validation loss 1.9071
+step 3400 (169.300s): training loss 1.7531, validation loss 1.8954
+step 3500 (173.722s): training loss 1.7368, validation loss 1.8918
+step 3600 (178.690s): training loss 1.7274, validation loss 1.8884
+step 3700 (183.278s): training loss 1.7301, validation loss 1.8819
+step 3800 (187.704s): training loss 1.7210, validation loss 1.8938
+step 3900 (193.042s): training loss 1.7260, validation loss 1.8750
+step 4000 (197.497s): training loss 1.7122, validation loss 1.8554
+step 4100 (202.226s): training loss 1.7129, validation loss 1.8717
+step 4200 (206.992s): training loss 1.7041, validation loss 1.8634
+step 4300 (211.445s): training loss 1.6986, validation loss 1.8434
+step 4400 (216.535s): training loss 1.7052, validation loss 1.8605
+step 4500 (221.009s): training loss 1.6881, validation loss 1.8467
+step 4600 (225.766s): training loss 1.6849, validation loss 1.8318
+step 4700 (230.906s): training loss 1.6833, validation loss 1.8449
+step 4800 (235.376s): training loss 1.6686, validation loss 1.8472
+step 4900 (240.433s): training loss 1.6719, validation loss 1.8425
+step 4999 (244.869s): training loss 1.6619, validation loss 1.8215
+Finished training at 2023-04-25 23:47:33.323640
+
+And they bride will to lay be madie;
+Thou but take O-dam the change:
+Warth full him tother dilth ane away, my fears,
+You have was them of is heart mile,
+You, and if ensmy contlatist, drov the does me now that
+just, lesing that.
+His my now, you up; and the tyby love.
+In Bodiet, and whom
+that demperakenous, so what evily well my
+Murtus censurence of him the reshep and thrust for to imper my monte in Mont,
+To fight? gry of thy hourb! stiddy as
+ards bearing her broint must are no Runnts
+Infortuce will me not be arm.
+You contrantymes have myse.-
+And fortwerle madam them may in son, live body.
+
+Think you:
+It stay might. 
+CLAMENCE:
+My whilesse everew in movet, if Cassce of's counted;
+How what make you fear tals: the gold my sun?
+What, loudy forgor man our him.
+I will were but with some. Povinly Ford the welcont.
+
+QUEEN FIDILIZ:
+No?
+Their him the not.
+
+POLIXENENE:
+But to me, God no now the summe wip.
+
+GROMPEO:
+Conguit, bruke this belike, on so han the bodiet.
+
+CORIOLANUS:
+Till the;
+you wellseers I am with you,
+For I hust no where Mustconce, do wind that I am nobly.
+
+BRUSTHORD:
+O, wenterings so me worting.
+
+GRUMIO:
+O thus favour now,
+An bear was all beenIn
+Before and to the sever--and.
+In to dot me, to liberfeleing breamn'd my have
+epince, if that jutcey's leve,
+That Tumselfly there's little ofjess the vown;
+Maughter armied maste love in stide belothy dong'd the not.
+
+BENVOLIO:
+Well cavonzy to I have must aboe;
+I now, I thinke numt om Three teny, delelige,
+And yet our son one old, we
+ell sment on you; and plock, say, as If have to kavidess corby?
+Then eteep; upose worth
+But arm one wall preven him there.
+
+BUCKINGHARD
+
+IVIRHAMIUS:
+Why, unere to-marrow thy sathe court his in on
+some no, God the have blay not, these wife it:
+The that hear I, thou with art, lives?
+
+LARY:
+Our while with you
+That I horrtw'd will theirs is.
+Why, I would I drue, and was father,--
+'Tensis, thy promb, many and sentry talbatt.
+
+PORDINCE:
+Why Riparding:
+In is shown's fortunds, but whom the brike our all
+
+Done generating at 2023-04-25 23:47:47.706259
