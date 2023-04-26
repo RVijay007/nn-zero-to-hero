@@ -1,0 +1,125 @@
+PyTorch version: 2.0.0
+Starting at 2023-04-25 16:57:50.477986
+Utilizing Device: cpu
+Model contains 0.209729 M parameters
+Running for 5000 iterations...
+step 0 (2.437s): training loss 4.4112, validation loss 4.4015
+step 100 (6.673s): training loss 2.6576, validation loss 2.6632
+step 200 (10.892s): training loss 2.5119, validation loss 2.5025
+step 300 (15.308s): training loss 2.4155, validation loss 2.4308
+step 400 (19.481s): training loss 2.3517, validation loss 2.3674
+step 500 (23.713s): training loss 2.3019, validation loss 2.3231
+step 600 (27.981s): training loss 2.2555, validation loss 2.2623
+step 700 (32.151s): training loss 2.2145, validation loss 2.2239
+step 800 (36.316s): training loss 2.1603, validation loss 2.1914
+step 900 (40.582s): training loss 2.1416, validation loss 2.1511
+step 1000 (44.848s): training loss 2.1029, validation loss 2.1321
+step 1100 (49.242s): training loss 2.0650, validation loss 2.1152
+step 1200 (53.342s): training loss 2.0482, validation loss 2.0958
+step 1300 (57.534s): training loss 2.0189, validation loss 2.0645
+step 1400 (61.819s): training loss 2.0023, validation loss 2.0483
+step 1500 (65.969s): training loss 1.9871, validation loss 2.0397
+step 1600 (70.081s): training loss 1.9717, validation loss 2.0442
+step 1700 (74.174s): training loss 1.9515, validation loss 2.0320
+step 1800 (78.299s): training loss 1.9289, validation loss 2.0228
+step 1900 (82.394s): training loss 1.9129, validation loss 1.9856
+step 2000 (86.638s): training loss 1.9093, validation loss 1.9977
+step 2100 (90.828s): training loss 1.8782, validation loss 1.9705
+step 2200 (94.918s): training loss 1.8768, validation loss 1.9649
+step 2300 (99.109s): training loss 1.8577, validation loss 1.9593
+step 2400 (103.402s): training loss 1.8436, validation loss 1.9434
+step 2500 (107.566s): training loss 1.8333, validation loss 1.9427
+step 2600 (111.850s): training loss 1.8205, validation loss 1.9362
+step 2700 (116.127s): training loss 1.8061, validation loss 1.9369
+step 2800 (120.315s): training loss 1.7901, validation loss 1.9266
+step 2900 (124.514s): training loss 1.7953, validation loss 1.9286
+step 3000 (128.690s): training loss 1.7836, validation loss 1.9112
+step 3100 (132.838s): training loss 1.7729, validation loss 1.9006
+step 3200 (137.158s): training loss 1.7539, validation loss 1.8887
+step 3300 (141.329s): training loss 1.7572, validation loss 1.8957
+step 3400 (145.699s): training loss 1.7634, validation loss 1.8935
+step 3500 (149.899s): training loss 1.7517, validation loss 1.8966
+step 3600 (154.077s): training loss 1.7422, validation loss 1.8924
+step 3700 (158.229s): training loss 1.7418, validation loss 1.8833
+step 3800 (162.424s): training loss 1.7345, validation loss 1.8873
+step 3900 (166.539s): training loss 1.7220, validation loss 1.8696
+step 4000 (170.685s): training loss 1.7115, validation loss 1.8629
+step 4100 (174.820s): training loss 1.7180, validation loss 1.8545
+step 4200 (178.958s): training loss 1.7166, validation loss 1.8616
+step 4300 (183.155s): training loss 1.7146, validation loss 1.8495
+step 4400 (187.317s): training loss 1.6974, validation loss 1.8579
+step 4500 (191.497s): training loss 1.6983, validation loss 1.8484
+step 4600 (195.608s): training loss 1.6975, validation loss 1.8386
+step 4700 (199.750s): training loss 1.6908, validation loss 1.8372
+step 4800 (203.933s): training loss 1.6814, validation loss 1.8350
+step 4900 (208.106s): training loss 1.6790, validation loss 1.8328
+step 4999 (212.222s): training loss 1.6778, validation loss 1.8310
+Finished training at 2023-04-25 17:01:22.717887
+
+Flife.
+
+DUKE OF YORK:
+And then, terver gared
+murcy he reiber tare I am, it; and says,
+Or are ends that I arpared thyself retign?
+
+Thomen:
+But unecerates, mind men in the formantly precy and by awheak is your naught his
+epree facher of Gendaret, them herier
+offor what out mayers sorrays:leathuonet not;
+No spost I voist, if we givers and god?
+
+CLAREY:
+Hate a nonce erralied in may.
+
+EDWARD:
+Of Clap's bannoth.
+
+RUC;
+Is no woe. That sake, by gallient wife march,
+'Twould bence to sove is the will.
+
+WARWICcence:
+Nore hall you must whick talkimesn unto hed to celmst; I'rett not must day.
+
+PETET:
+And that your and 'tis and not makes, beter to kends
+As. By have themmost long coldriant;
+Which-sweeppy and of sorrown the happ havest,
+Yenter hath ading it thyself do to plarts
+Where is in entelmicy our cuspitmen,
+Of gresentated may prechariers and rihemsen!
+Theerefor, cunnater appinise, your sir,
+evice back he him and your by some,
+Too that nevely not, but gitied?
+The has seing, then. Secame be donamor toge-bleak
+
+Geepaten you and plaidemend her king:
+Lant a bid noyful placy. The brearles them much hern womence, and gokes sols myself Angre hide,
+Bumbel,----forgue
+Of which thy will;
+Busher anding thing his domelible.
+
+ROMEO:
+Why mean welct myselp, by, I'll do cwient soon exies!'
+
+Comen:
+Is would hunrone slands you there?
+I should of ortch trame's disgution.
+The has hither; and, pray huse parise;
+For Voly will shower wear's and stit, wilt,
+Or pareding intignations sasted to your gare from was we indervant's far
+Raed your rather me then is heard they
+Offed with floom thee. Near, will show noelmer, 'mord!
+'why day touck first, I heart in tran your gentlemans
+Emest mack of mysaper-agarded and on goodly'st heise welp:
+Nor behide, many sharfule wefparetes thered inteds! in I kill here, is,
+tear waar you send fame ware now your
+and mercons thumself, we drinkaring yet sofure
+En oftemmond to and abinated. Of ore prephury,
+Lordson thOm them them full,mne-pracised?
+
+DUCHENBY:
+That not tarry w
+
+Done generating at 2023-04-25 17:01:27.156658
