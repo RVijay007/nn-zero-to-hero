@@ -1,0 +1,91 @@
+PyTorch version: 2.0.0+cu118
+Starting at 2023-04-25 23:36:26.922533
+Utilizing Device: cuda
+Model contains 10.788929 M parameters
+Running for 5000 iterations...
+step 0 (21.042s): training loss 4.2849, validation loss 4.2827
+step 500 (105.641s): training loss 1.9975, validation loss 2.0798
+step 1000 (191.755s): training loss 1.5904, validation loss 1.7685
+step 1500 (278.906s): training loss 1.4325, validation loss 1.6370
+step 2000 (368.987s): training loss 1.3455, validation loss 1.5781
+step 2500 (459.656s): training loss 1.2757, validation loss 1.5276
+step 3000 (550.880s): training loss 1.2303, validation loss 1.5077
+step 3500 (641.486s): training loss 1.1847, validation loss 1.4795
+step 4000 (740.142s): training loss 1.1456, validation loss 1.4841
+step 4500 (837.282s): training loss 1.1121, validation loss 1.4864
+step 4999 (929.526s): training loss 1.0753, validation loss 1.4883
+Finished training at 2023-04-25 23:51:56.596466
+
+Thy women divined and misery, at one,
+If stops my report
+In his own.
+
+DUKE VINCENTIO:
+Master there!
+
+ISABELLA:
+He's counsel all and honour, I sit on.
+
+ISABELLA:
+He would not senatue my house consul?
+
+ANGELO:
+Well, sir.
+
+DUKE VINCENTIO:
+Remember: you shall not him, my sorry, well not have
+this hour's son, up your misery good
+mark from me: yetwent the top-canoin! boy, which
+will I not take? God for the pale?
+
+DUKE VINCENTIO:
+Peace, gently foodman; I am mock at a
+secrect way-a-nighty fear-peace; bes, dislied
+you that have I not heard add
+So changeance inthreely. Uneven am
+I was e'er I slain, listen; and, set off, be poys
+To converse it: if that very vexey then itsides,
+Or that sound the that I have county!
+That's say the subject of the dishonour of his
+'Will't, bear 'twell be thankedom, sir, in the prince
+I'll nown my hand, when vial now the warless.
+They must not enversman will burst
+I have in the best condemn or exchance:
+That he's false is graceful beard by hell;
+And so to, entreation as he guess,
+the time trubled set thee as my news
+As should drop thee and their tilto high plunks.
+Come, come where here's do I saw here!
+That add discrean'd, that my soul?
+
+TRANIO:
+How far s't, Wednesday? the king's food is base,
+Before I urge! O holy confess'd to man!
+Now, report will you come upon this will?
+Be sursed my execuls? Or breathe, what appying,
+Desolate wilt substant to me whispes ever
+About of your recounce do be pardon'd for me,
+To the best heart theirst affections, and impresent
+The prison, achildren you fortnowed in our subjects,
+Immelts our profanes.
+
+LEONTES:
+Come, bear her.
+
+PAULINA:
+Why;
+He can the deputy in thy love:
+Name we'll never with thy cheek as thoughts,
+And say upon
+Here I enter'd thee heaven it out.
+Be it die you, god must be mine imports:
+That versality Paris;
+I heir more in seeks son this old Meril duke,
+To wrinklets excellent his, my father's follow.
+
+EDWARD:
+My Lard corset above Henry's title the friend.
+Shall we our curset kings with him sleepwell.
+
+
+Done generating at 2023-04-25 23:52:50.417593
