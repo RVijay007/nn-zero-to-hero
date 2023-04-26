@@ -1,0 +1,121 @@
+PyTorch version: 2.0.0
+Starting at 2023-04-25 17:06:04.950338
+Utilizing Device: mps
+Model contains 0.209729 M parameters
+Running for 5000 iterations...
+step 0 (6.347s): training loss 4.4112, validation loss 4.4015
+step 100 (20.651s): training loss 2.6576, validation loss 2.6632
+step 200 (34.271s): training loss 2.5119, validation loss 2.5023
+step 300 (47.686s): training loss 2.4156, validation loss 2.4309
+step 400 (60.896s): training loss 2.3513, validation loss 2.3670
+step 500 (74.211s): training loss 2.3017, validation loss 2.3230
+step 600 (87.481s): training loss 2.2553, validation loss 2.2621
+step 700 (100.496s): training loss 2.2147, validation loss 2.2245
+step 800 (113.602s): training loss 2.1603, validation loss 2.1913
+step 900 (126.701s): training loss 2.1426, validation loss 2.1518
+step 1000 (139.894s): training loss 2.1020, validation loss 2.1316
+step 1100 (152.998s): training loss 2.0635, validation loss 2.1139
+step 1200 (166.113s): training loss 2.0492, validation loss 2.0964
+step 1300 (179.149s): training loss 2.0195, validation loss 2.0636
+step 1400 (192.226s): training loss 2.0004, validation loss 2.0452
+step 1500 (205.374s): training loss 1.9855, validation loss 2.0376
+step 1600 (218.619s): training loss 1.9672, validation loss 2.0393
+step 1700 (231.802s): training loss 1.9512, validation loss 2.0303
+step 1800 (245.227s): training loss 1.9269, validation loss 2.0206
+step 1900 (258.393s): training loss 1.9125, validation loss 1.9857
+step 2000 (271.914s): training loss 1.9084, validation loss 1.9982
+step 2100 (285.248s): training loss 1.8773, validation loss 1.9697
+step 2200 (299.301s): training loss 1.8764, validation loss 1.9625
+step 2300 (312.435s): training loss 1.8553, validation loss 1.9571
+step 2400 (325.656s): training loss 1.8420, validation loss 1.9460
+step 2500 (339.125s): training loss 1.8335, validation loss 1.9425
+step 2600 (352.614s): training loss 1.8210, validation loss 1.9364
+step 2700 (365.913s): training loss 1.8066, validation loss 1.9406
+step 2800 (379.061s): training loss 1.7900, validation loss 1.9250
+step 2900 (392.039s): training loss 1.7944, validation loss 1.9336
+step 3000 (405.183s): training loss 1.7821, validation loss 1.9110
+step 3100 (418.707s): training loss 1.7729, validation loss 1.9016
+step 3200 (432.086s): training loss 1.7569, validation loss 1.8906
+step 3300 (445.363s): training loss 1.7553, validation loss 1.8949
+step 3400 (458.560s): training loss 1.7582, validation loss 1.8868
+step 3500 (471.665s): training loss 1.7509, validation loss 1.8924
+step 3600 (485.153s): training loss 1.7404, validation loss 1.8835
+step 3700 (498.476s): training loss 1.7337, validation loss 1.8731
+step 3800 (511.980s): training loss 1.7330, validation loss 1.8892
+step 3900 (525.928s): training loss 1.7210, validation loss 1.8677
+step 4000 (539.563s): training loss 1.7091, validation loss 1.8573
+step 4100 (553.131s): training loss 1.7165, validation loss 1.8555
+step 4200 (566.370s): training loss 1.7159, validation loss 1.8550
+step 4300 (580.131s): training loss 1.7089, validation loss 1.8433
+step 4400 (593.479s): training loss 1.6992, validation loss 1.8575
+step 4500 (606.852s): training loss 1.6983, validation loss 1.8432
+step 4600 (620.229s): training loss 1.6971, validation loss 1.8317
+step 4700 (633.577s): training loss 1.6871, validation loss 1.8276
+step 4800 (646.463s): training loss 1.6845, validation loss 1.8386
+step 4900 (660.184s): training loss 1.6745, validation loss 1.8202
+step 4999 (673.828s): training loss 1.6805, validation loss 1.8245
+Finished training at 2023-04-25 17:17:18.855176
+
+Foastay deed for here Relperd;
+Onievey to your mean extage. Tress heare, yet here broneOrd,
+The Lack, and in mpress my arthoce
+by, everingly beked and hiNestien, away!
+
+AUTEwnient, albustself:
+'Torst to lace and your and hope a sorn hear slephaply enemain when:
+That gientleman'd greands! let's upiing;
+And and beloy cried maning, in mamstand-theresmenter, whose then?
+
+DUQHESS OF YOLY:
+Farst by,-maning apped retonds: thy in I that receast,
+Answer himselved epoor? and to call,
+Karein'd and the kindom, perceiful it!
+
+BENVOLIO:
+God'rewroy-prince, sir, thonghter.
+
+AUCIO:
+By their ropt: the impled eet the maided!
+'Duted far yeshe sayper tae o'ersh father you hase; my goldst yearm:
+'it she womants wast braid of hearth gove rewish my had.
+Good, andest the wast vering's werply.
+
+COMILLOUS:
+Take upon himous I, Oxet near;
+And you quarel, troust I amself he suchided,
+Let's there is by thy was
+I is fadest pripeope trevout
+bresecurored him bossing and theer ast of Forewas and holO;
+And queen your hasson, Ormily your huncemies, herself themmed? Who?
+
+Clain, Town agarinst: we need, thust you long.
+
+KING RICHARD III:
+Vill man ber come, ventant.
+
+Nextraw tranker:
+That is thouft no marchess of canne withound, to to he will: fair trage same and chens'd naching taik.
+
+BRUTOLINCE
+HASTEs:
+When erry vien,
+Unto fur well, and are mawce it kindrutte'd a bid'simtared and sharts afforer in his remareth,
+Margor for prowers of farmfien ares. Yourst year'd the werl not,
+And becening hanged hope out at, mind hath deps in wooks
+Trumnion deving by, indeed and ene nevenging,
+And spearl'd father manding there's nother;
+When I wasHesders hather than I epard's and sontens of you raight this,
+And my 
+Without offirer thange and my burinder.
+
+MENENIUS:
+Is not tees so: doth your gone,
+gegentlarent: my there his gindaremen,
+That I threeged hanglesting perscippers in this in.
+
+NeANCIO:
+Why sayer for my me? your defigentry mell enegget,
+Near yethush resencess burinding of when far albhray,
+Iseln we sheall in for
+
+Done generating at 2023-04-25 17:18:05.901759
